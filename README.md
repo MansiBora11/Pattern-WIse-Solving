@@ -1,1 +1,1 @@
-# Pattern-WIse-Solving
+# Pattern-Wise-Solving
